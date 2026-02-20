@@ -45,7 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchit-web&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchit-web&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+ 
 </p>
 
 <p align="center">

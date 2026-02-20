@@ -45,13 +45,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=sanchit-web&show_icons=true&theme=tokyonight&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchit-web&show_icons=true&theme=tokyonight&cache_seconds=0" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanchit-web&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sanchit-web&theme=tokyonight&cache_seconds=0" />
 </p>
-
 ---
 
 ## 📈 Current Focus

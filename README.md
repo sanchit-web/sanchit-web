@@ -39,9 +39,6 @@
 ---
 
 
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -51,7 +48,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanchit-web&theme=tokyonight&cache_seconds=0" />
 </p>
----
+
 
 ## 📈 Current Focus
 
